@@ -42,7 +42,7 @@ function validaCPF(cpf) {
 function validacao() {
     console.log('Iniciando validação CPF')
     document.getElementById('success').style.display = 'none'; // limpar a mensagem 
-    document.getElementById('success').style.display = 'none';
+    document.getElementById('error').style.display = 'none';
 
     var cpf = document.getElementById('cpf_digitado').value;   //capturar elementos de dentro do HTML
     var resultadoValidacao = validaCPF(cpf);
