@@ -1,5 +1,5 @@
-## Gama Academy - Validador CPF 
-Projeto realizado no módulo de JavaScript com o professor JC Bombardelli. <br/>
+## Validador CPF 
+Projeto desenvolvido no curso da Gama Academy durante as aulas de JavaScript com o professor JC Bombardelli. <br/>
 
 <div align="center"> 
 
