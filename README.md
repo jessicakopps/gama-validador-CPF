@@ -8,4 +8,6 @@ Projeto desenvolvido no curso da Gama Academy durante as aulas de JavaScript com
 [![b2f84Ak.png](https://i.imgur.com/b2f84Ak.png)](https://imgur.com/b2f84Ak)
 </div>
 
+## Usando a aplicação
+Para usá-la, basta executar o arquivo index.html
 
