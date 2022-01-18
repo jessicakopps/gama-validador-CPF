@@ -1,7 +1,7 @@
 ## Validador CPF 
 Projeto desenvolvido no curso da Gama Academy durante as aulas de JavaScript com o professor JC Bombardelli. 
-<br>
 
+<br>
 
 <div align="center"> 
   
