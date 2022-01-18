@@ -13,6 +13,6 @@ Projeto desenvolvido no curso da Gama Academy durante as aulas de JavaScript com
 ### Tecnologias utilizadas
 - Javascript
 
-### Usando a aplicação
-Para usá-la, basta executar o arquivo index.html
+## Usando a aplicação
+- Para usá-la, basta executar o arquivo index.html
 
